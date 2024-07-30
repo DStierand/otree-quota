@@ -5,7 +5,7 @@
   A quota for oTree projects. Counts the number of completions and directs subjects to another page when the desired number of completions has been reached. 
 </p>
 <p>
-  Please note that subjects are able to start and finish the project until other subjects' simultaneous participation is completed!
+  Please note that subjects are able to start and finish the project until other subjects' simultaneous participations are completed!
 </p>  
 <p>
   <b>How to reference this online resource?</b>
