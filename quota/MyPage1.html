@@ -1,0 +1,20 @@
+{{ extends 'global/Page.html' }}
+{{ block title }}First page{{ endblock }}
+
+{{ block content }}
+
+<p>
+    This app contains a <b>player field</b> (quota_full, initially set to 0), a <b>participant field</b> (quota_full) and a <b>session field</b> (num_participants_finished).
+</p>
+<p>
+    When creating a session, num_participants_finished is set to 0 to start the counter. 
+</p>
+<p>
+    After the first page (e.g. informed consent) quota_full is stored as a participant variable. This is only neccessary when quota_full needs to be retrieved in a different app. However, <i>a</i> page is needed prior to the following page.
+</p>
+
+{{ formfields }}
+
+{{ next_button }}
+
+{{ endblock }}

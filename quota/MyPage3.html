@@ -1,0 +1,17 @@
+{{ extends 'global/Page.html' }}
+{{ block title }}Third page (start of the experiment){{ endblock }}
+
+{{ block content }}
+
+<p>
+    This page only shows up when the desired number of participants (here: 5) have not yet completed the project.
+</p>
+<p>
+    If this is not the case, "Second Page" shows up instead.
+</p>
+
+{{ formfields }}
+
+{{ next_button }}
+
+{{ endblock }}
