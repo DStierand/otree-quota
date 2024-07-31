@@ -11,5 +11,5 @@
   <b>How to reference this online resource?</b>
 </p>
 <p>
-  Stierand, Dirk (2024). Quota for oTree projects. Available at: https://github.com/DStierand/otree-quota.
+  Stierand, Dirk (2024). <i>Quota for oTree projects</i>. Available at: https://github.com/DStierand/otree-quota.
 </p>
